@@ -1,15 +1,4 @@
-absl-py==2.1.0
-aext-assistant @ file:///croot/aext-assistant_1734642983417/work
-aext-assistant-server @ file:///croot/aext-assistant-server_1734639753335/work
-aext-core @ file:///croot/aext-core_1734637784667/work
-aext-core-server @ file:///croot/aext-core-server_1734635055789/work
-aext-panels @ file:///croot/aext-panels_1734642945502/work
-aext-panels-server @ file:///croot/aext-panels-server_1734639706592/work
-aext-project-filebrowser-server @ file:///croot/aext-project-filebrowser-server_1734687619007/work/backend_lib/project_filebrowser
-aext-share-notebook @ file:///croot/aext-share-notebook_1734642860995/work
-aext-share-notebook-server @ file:///croot/aext-share-notebook-server_1734639647810/work
-aext-shared @ file:///croot/aext-shared_1734622510702/work
-aext-toolbox @ file:///croot/anaconda-toolbox_1734694557658/work
+
 aiobotocore @ file:///home/conda/feedstock_root/build_artifacts/aiobotocore_1724657094215/work
 aiohappyeyeballs @ file:///croot/aiohappyeyeballs_1734469393482/work
 aiohttp @ file:///croot/aiohttp_1734687138658/work
